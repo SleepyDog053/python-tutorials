@@ -36,4 +36,4 @@ elif (a < b) and (a < c):
 else:
     print("a is the middle number")
 
-# Try using or and predictinng the output
+# Try using or and predicting the output
